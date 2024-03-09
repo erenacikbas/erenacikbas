@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Tuna Açıkbaş</h1>
-<h3 align="center">A enthusiast software developer</h3>
+<h3 align="center">An enthusiast software developer</h3>
 
 <h3 align="left">You can reach me via:</h3>
 <p align="left">
