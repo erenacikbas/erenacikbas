@@ -22,7 +22,7 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=6BBCqlzE4iKd&format=png&color=000000" alt="eren@erenacikbas.com" height="30" width="40" />
   </a>
   <a href="https://erenacikbas.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="erenacikbas.com" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=8bVNpI807DcA&format=png&color=000000" alt="erenacikbas.com" height="40" width="40" />
   </a>
 </p>
 
