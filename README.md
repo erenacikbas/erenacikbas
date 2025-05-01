@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/erenacikbas?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/last-commit/erenacikbas/monte-carlo-simulation" alt="Last Commit" />
 </p>
 
 <p align="center">
