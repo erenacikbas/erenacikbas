@@ -33,13 +33,6 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
 -->
-<h3 align="left">🚀 Projects:</h3>
-<ul>
-  <li><a href="https://github.com/erenacikbas/monte-carlo-simulation">Monte Carlo Reservoir Simulation</a> - A Python-based tool for reservoir volume simulation using probabilistic methods, developed with PyQt6 for visualizing results.</li>
-  <li><a href="https://github.com/erenacikbas/library-management-system">Library Management System</a> - A Django and Docker system for managing library resources, including book cataloging and borrowing with containerization for scalability.</li>
-  <li><a href="#">HearMe</a> - A mobile app supporting victims of domestic violence, developed using Flutter and Firebase, aligned with the UN's Sustainable Development Goals.</li>
-  <li><a href="#">Glossy Words</a> - A Flutter-based vocabulary learning app with spaced repetition and progress tracking for efficient memorization.</li>
-</ul>
 
 <h3 align="left">🏆 Certifications:</h3>
 <ul>
@@ -63,9 +56,17 @@
 
 <h3 align="left">🏅 Achievements:</h3>
 <ul>
-  <li>Leading team of 10+ developers at Implementation Partners GmbH</li>
+  <li>Leading team of 5+ developers at Implementation Partners GmbH</li>
   <li>Developed a high-performance, cloud-native banking product</li>
   <li>Expert in secure API gateways, microservices, and high-performance applications</li>
+</ul>
+
+<h3 align="left">🚀 Projects:</h3>
+<ul>
+  <li><a href="https://github.com/erenacikbas/monte-carlo-simulation">Monte Carlo Reservoir Simulation</a> - A Python-based tool for reservoir volume simulation using probabilistic methods, developed with PyQt6 for visualizing results.</li>
+  <li><a href="https://github.com/erenacikbas/library-management-system">Library Management System</a> - A Django and Docker system for managing library resources, including book cataloging and borrowing with containerization for scalability.</li>
+  <li><a href="#">HearMe</a> - A mobile app supporting victims of domestic violence, developed using Flutter and Firebase, aligned with the UN's Sustainable Development Goals.</li>
+  <li><a href="#">Glossy Words</a> - A Flutter-based vocabulary learning app with spaced repetition and progress tracking for efficient memorization.</li>
 </ul>
 
 <!--
