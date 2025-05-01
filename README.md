@@ -5,35 +5,6 @@
   A Software Engineer with over 3.5 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently working on Gowit Inc.
 </p>
 
-<!--
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/erenacikbas" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eren Tuna Açıkbaş LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/erenacikbas" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Eren Tuna Açıkbaş Behance" height="30" width="40" />
-  </a>
-  <a href="mailto:eren@erenacikbas.com">
-    <img align="center" src="https://img.icons8.com/?size=100&id=6BBCqlzE4iKd&format=png&color=000000" alt="eren@erenacikbas.com" height="30" width="40" />
-  </a>
-  <a href="https://erenacikbas.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=8bVNpI807DcA&format=png&color=000000" alt="erenacikbas.com" height="40" width="40" />
-  </a>
-</p>
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-</p>
--->
-
 <h3 align="left">🏆 Certifications:</h3>
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/A78DMUBBG4NY">Machine Learning with Python - IBM</a></li>
@@ -68,11 +39,3 @@
   <li><a href="#">HearMe</a> - A mobile app supporting victims of domestic violence, developed using Flutter and Firebase, aligned with the UN's Sustainable Development Goals.</li>
   <li><a href="#">Glossy Words</a> - A Flutter-based vocabulary learning app with spaced repetition and progress tracking for efficient memorization.</li>
 </ul>
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erenacikbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="Eren Tuna Açıkbaş's top languages" />
-</p>
--->
-
-<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Freepik - Flaticon</a>
