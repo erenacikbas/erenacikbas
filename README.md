@@ -10,6 +10,7 @@
   A Software Engineer with over 3 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently leading a team at Implementation Partners GmbH, I focus on secure authentication, authorization, and seamless API integration.
 </p>
 
+<!--
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erenacikbas" target="_blank">
@@ -25,7 +26,6 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=8bVNpI807DcA&format=png&color=000000" alt="erenacikbas.com" height="40" width="40" />
   </a>
 </p>
-
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
-
+-->
 <h3 align="left">🚀 Projects:</h3>
 <ul>
   <li><a href="https://github.com/erenacikbas/monte-carlo-simulation">Monte Carlo Reservoir Simulation</a> - A Python-based tool for reservoir volume simulation using probabilistic methods, developed with PyQt6 for visualizing results.</li>
@@ -73,8 +73,10 @@
   <li>Expert in secure API gateways, microservices, and high-performance applications</li>
 </ul>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erenacikbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="Eren Tuna Açıkbaş's top languages" />
 </p>
+-->
 
 <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Freepik - Flaticon</a>
