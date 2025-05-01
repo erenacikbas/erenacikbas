@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  A Software Engineer with over 3 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently leading a team at Implementation Partners GmbH, I focus on secure authentication, authorization, and seamless API integration.
+  A Software Engineer with over 3.5 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently working on Gowit Inc.
 </p>
 
 <!--
