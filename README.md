@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Tuna Açıkbaş</h1>
-<h3 align="center">A Dedicated Software Engineer Specializing in Cloud-Native Solutions and AI-Driven Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/erenacikbas?style=social" alt="GitHub Followers" />
-</p>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   A Software Engineer with over 3 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently leading a team at Implementation Partners GmbH, I focus on secure authentication, authorization, and seamless API integration.
