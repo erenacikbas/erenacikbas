@@ -23,7 +23,7 @@
 
 ### Education
 
-- **M.S. Artificial Intelligence and Robotics** — Ankara University *(2025 – Present)*
+- **M.S. Artificial Intelligence and Robotics** — Ankara University *(2026 – Present)*
 - **B.S. Petroleum and Natural Gas Engineering** — Middle East Technical University *(2019 – 2024)*
 - **Associate Degree, Computer Programming** — Istanbul University *(2024 – Present)*
 
