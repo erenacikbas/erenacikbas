@@ -1,41 +1,52 @@
 <h1 align="center">Eren Tuna Açıkbaş</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer · Ankara, Turkey</h3>
 
 <p align="center">
-  A Software Engineer with over 3.5 years of experience in Golang, Kubernetes, and microservices architecture. I am passionate about building scalable, high-performance, and AI-driven solutions in cloud-native environments, particularly for financial and enterprise applications. Currently working on Gowit Inc.
+  <a href="https://erenacikbas.com">Website</a> ·
+  <a href="https://linkedin.com/in/erenacikbas">LinkedIn</a> ·
+  <a href="mailto:contact@erenacikbas.com">Contact</a>
 </p>
 
-<h3 align="left">Certifications:</h3>
-<ul>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/A78DMUBBG4NY">Machine Learning with Python - IBM</a></li>
-  <li>Concurrency in Go - University of California, Irvine</li>
-  <li>Databases and SQL for Data Science - IBM</li>
-  <li>Microsoft Learn AI Skills Challenge - Microsoft</li>
-</ul>
+<p align="center">
+  Software Engineer with 5+ years of experience building high-performance backend systems, microservices architectures, and cloud-native platforms. Proficient in Golang, Python, and Kubernetes. Published researcher in deep learning. Currently pursuing M.S. in Artificial Intelligence and Robotics at Ankara University.
+</p>
 
-<h3 align="left">Ongoing Publications:</h3>
-<ul>
-  <li><strong>Advancing Crayfish Gender Prediction:</strong> A Comparative Study of Deep Learning and Canonical Machine Learning Techniques</li>
-  <li><strong>Sex Estimation from Long Bones:</strong> Canonical Machine Learning and Deep Learning Approaches in Forensic Anthropology</li>
-</ul>
+---
 
-<h3 align="left">Education:</h3>
-<ul>
-  <li>B.Sc. Petroleum and Natural Gas Engineering - Middle East Technical University (2019-2024)</li>
-  <li>Computer Programming - İstanbul University (2024 - Ongoing)</li>
-</ul>
+### Experience
 
-<h3 align="left">Achievements:</h3>
-<ul>
-  <li>Leading team of 5+ developers at Implementation Partners GmbH</li>
-  <li>Developed a high-performance, cloud-native banking product</li>
-  <li>Expert in secure API gateways, microservices, and high-performance applications</li>
-</ul>
+- **Mid-Level Software Developer** — GoWit Inc. *(2025 – Present)*
+- **Technical Team Lead** — Implementation Partners *(Jun – Dec 2024)*
+- **Software Developer** — Implementation Partners *(2023 – 2024)*
+- **Junior Software Developer** — Valantic *(2021 – 2023)*
+- **Freelance Software Developer** — Bionluk *(2019 – 2021)*
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://github.com/erenacikbas/monte-carlo-simulation">Monte Carlo Reservoir Simulation</a> - A Python-based tool for reservoir volume simulation using probabilistic methods, developed with PyQt6 for visualizing results.</li>
-  <li><a href="https://github.com/erenacikbas/library-management-system">Library Management System</a> - A Django and Docker system for managing library resources, including book cataloging and borrowing with containerization for scalability.</li>
-  <li><a href="#">HearMe</a> - A mobile app supporting victims of domestic violence, developed using Flutter and Firebase, aligned with the UN's Sustainable Development Goals.</li>
-  <li><a href="#">Glossy Words</a> - A Flutter-based vocabulary learning app with spaced repetition and progress tracking for efficient memorization.</li>
-</ul>
+### Education
+
+- **M.S. Artificial Intelligence and Robotics** — Ankara University *(2025 – Present)*
+- **B.S. Petroleum and Natural Gas Engineering** — Middle East Technical University *(2019 – 2024)*
+- **Associate Degree, Computer Programming** — Istanbul University *(2024 – Present)*
+
+### Publications
+
+- Y. Atilkan, B. Kirik, **E. T. Acikbas**, F. Ekinci, K. Acici, T. Asuroglu, R. Benzer, M. S. Guzel, and S. Benzer. "[Enhancing crayfish sex identification with Kolmogorov–Arnold networks and stacked autoencoders](https://doi.org/10.1038/s41598-025-34095-z)." *Scientific Reports*, Nature, 2025.
+
+### Certifications
+
+- [Machine Learning with Python — IBM](https://www.coursera.org/account/accomplishments/verify/A78DMUBBG4NY)
+- Concurrency in Go — University of California, Irvine
+- Databases and SQL for Data Science — IBM
+- Microsoft Learn AI Skills Challenge — Microsoft
+
+### Technical Skills
+
+**Languages:** Golang, Python, Rust, Dart, Shell, SQL
+**Infrastructure:** Kubernetes, Docker, Kafka, Redis, PostgreSQL, Oracle Cloud
+**Tools:** Git, CI/CD, Microservices, REST APIs, gRPC, Flutter, TensorFlow, Firebase
+
+### Projects
+
+- [**Monte Carlo Reservoir Simulation**](https://github.com/erenacikbas/monte-carlo-simulation) — Python-based reservoir volume simulation using probabilistic methods with PyQt6 visualization
+- [**Library Management System**](https://github.com/erenacikbas/library-management-system) — Django and Docker system for library resource management with containerized deployment
+- **HearMe** — Mobile app supporting victims of domestic violence, built with Flutter and Firebase
+- **Glossy Words** — Flutter vocabulary learning app with spaced repetition and progress tracking
