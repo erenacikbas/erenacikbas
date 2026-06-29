@@ -15,7 +15,7 @@
 
 ### Experience
 
-- **Mid-Level Software Developer** — GoWit Inc. *(2025 – Present)*
+- **Software Engineer** — GoWit Inc. *(2025 – Present)*
 - **Technical Team Lead** — Implementation Partners *(Jun – Dec 2024)*
 - **Software Developer** — Implementation Partners *(2023 – 2024)*
 - **Junior Software Developer** — Valantic *(2021 – 2023)*
